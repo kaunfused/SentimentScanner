@@ -8,4 +8,4 @@ xgboost
 streamlit
 flask
 flask_cors
-gunicorn
+google-generativeai
